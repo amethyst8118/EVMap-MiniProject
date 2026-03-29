@@ -55,6 +55,8 @@ android {
             )
             signingConfig = if (isRunningOnCI && !isCIKeystoreAvailable) {
                 null
+            } else if (!isRunningOnCI) {
+                signingConfigs.getByName("debug")
             } else {
                 signingConfigs.getByName("release")
             }
