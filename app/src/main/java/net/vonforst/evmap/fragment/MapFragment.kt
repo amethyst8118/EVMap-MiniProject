@@ -340,26 +340,6 @@ class MapFragment : Fragment(), OnMapReadyCallback, MenuProvider {
             (requireActivity() as MapsActivity).appBarConfiguration
         )
 
-        if (prefs.appStartCounter > 5 && Duration.between(
-                prefs.opensourceDonationsDialogLastShown,
-                Instant.now()
-            ) > Duration.ofDays(30)
-        ) {
-            try {
-                findNavController().safeNavigate(MapFragmentDirections.actionMapToOpensourceDonations())
-            } catch (ignored: IllegalArgumentException) {
-                // when there is already another navigation going on
-            } catch (ignored: IllegalStateException) {
-                // "no current navigation node"
-            }
-        }
-        /*if (!prefs.update060AndroidAutoDialogShown) {
-            try {
-                navController.safeNavigate(MapFragmentDirections.actionMapToUpdate060AndroidAuto())
-            } catch (ignored: IllegalArgumentException) {
-                // when there is already another navigation going on
-            }
-        }*/
 
         val fragmentArgs: MapFragmentArgs by navArgs()
         if (savedInstanceState == null && fragmentArgs.appStart) {
