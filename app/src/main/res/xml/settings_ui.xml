@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
     <ListPreference
-        android:key="language"
-        android:persistent="false"
-        android:title="@string/pref_language"
-        android:defaultValue="default"
-        android:summary="%s" />
-    <ListPreference
         android:key="units"
         android:title="@string/pref_units"
         android:entries="@array/pref_units_names"
