@@ -18,7 +18,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:text="EVChargeMap"
-        android:textAppearance="@style/TextAppearance.Material3.HeadlineLarge"
+        android:textAppearance="@style/TextAppearance.Material3.TitleLarge"
         android:textAlignment="viewStart"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

@@ -14,4 +14,13 @@
         android:fragment="net.vonforst.evmap.fragment.preference.DeveloperSettingsFragment"
         android:title="@string/developer_options"
         android:icon="@drawable/ic_developer" />
+
+    <PreferenceCategory android:title="Notifications">
+        <SwitchPreferenceCompat
+            android:key="dummy_notifications"
+            android:title="Push notifications for Live Charger availability"
+            android:summary="Coming soon"
+            android:enabled="false" />
+    </PreferenceCategory>
+
 </PreferenceScreen>

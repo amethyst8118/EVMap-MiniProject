@@ -10,6 +10,12 @@
             android:defaultValue="openchargemap"
             app:useSimpleSummaryProvider="true" />
 
+        <Preference
+            android:key="dummy_leccs"
+            android:title="LECCS (Ather) support coming soon"
+            android:enabled="false" />
+
+
         <!--<CheckBoxPreference
             android:key="prediction_enabled"
             android:title="@string/pref_prediction_enabled"
