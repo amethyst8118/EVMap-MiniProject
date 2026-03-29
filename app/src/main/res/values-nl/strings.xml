@@ -16,7 +16,7 @@
     <string name="verified_desc">Laadpunt is minstens 1x bevestigd als werkend door een lid van de %s gemeenschap</string>
     <string name="chargeprice_no_tariffs_found">Geen tarieven voor dit laadpunt op Chargeprice.app</string>
     <string name="category_hospital">Ziekenhuis</string>
-    <string name="title_activity_maps">EVMap</string>
+    <string name="title_activity_maps">EVChargeMap</string>
     <string name="connectors">Connectoren</string>
     <string name="no_browser_app_found">Installeer eerst een web browser</string>
     <string name="address">Adres</string>
@@ -255,7 +255,7 @@
         <item quantity="one">%1$d/%2$d beschkbaar</item>
         <item quantity="other">%1$d/%2$d beschikbaar</item>
     </plurals>
-    <string name="app_name">EVMap</string>
+    <string name="app_name">EVChargeMap</string>
     <string name="no_maps_app_found">Installeer eerst een navigatie-app</string>
     <string name="hours">Openingsuren</string>
     <string name="charging_paid">Betalend</string>

@@ -21,8 +21,8 @@
     <string name="parking_paid">Tasuline</string>
     <string name="network">Võrk</string>
     <string name="operator">Käitaja</string>
-    <string name="app_name">EVMap</string>
-    <string name="title_activity_maps">EVMap</string>
+    <string name="app_name">EVChargeMap</string>
+    <string name="title_activity_maps">EVChargeMap</string>
     <string name="edit">muuda</string>
     <string name="filter_free_parking">Vaid laadimisjaamad, kus on tasuta parkimine</string>
     <string name="category_camping">Laagriplats</string>

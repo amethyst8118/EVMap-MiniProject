@@ -288,8 +288,8 @@
     <string name="charger_name">Název nabíječky</string>
     <string name="closed_unfmt">Zavřeno</string>
     <string name="holiday">Svátek</string>
-    <string name="app_name">EVMap</string>
-    <string name="title_activity_maps">EVMap</string>
+    <string name="app_name">EVChargeMap</string>
+    <string name="title_activity_maps">EVChargeMap</string>
     <string name="search">Vyhledávání</string>
     <string name="fav_remove">Odebrat z oblíbených</string>
     <string name="pref_navigate_use_maps">Okamžitá navigace</string>

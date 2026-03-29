@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">EVMap</string>
+    <string name="app_name">EVChargeMap</string>
     <string name="no_maps_app_found">Installer et navigeringsprogram først</string>
     <string name="closed"><![CDATA[<b>Stengt</b>]]></string>
     <string name="open_closesat"><![CDATA[<b>Åpen</b> · Stenger %s]]></string>
@@ -42,7 +42,7 @@
     <string name="hours">Åpningstider</string>
     <string name="open_247"><![CDATA[<b>Døgnåpen</b>]]></string>
     <string name="settings_ui">Grensesnitt</string>
-    <string name="title_activity_maps">EVMap</string>
+    <string name="title_activity_maps">EVChargeMap</string>
     <string name="no_browser_app_found">Installer en nettleser først</string>
     <string name="address">Adresse</string>
     <string name="network">Nettverk</string>

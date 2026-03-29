@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">EVMap</string>
+    <string name="app_name">EVChargeMap</string>
     <string name="connectors">Prese</string>
     <string name="address">Indirizzo</string>
     <string name="operator">Operatore</string>

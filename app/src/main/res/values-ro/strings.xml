@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">EVMap</string>
-    <string name="title_activity_maps">EVMap</string>
+    <string name="app_name">EVChargeMap</string>
+    <string name="title_activity_maps">EVChargeMap</string>
     <string name="connectors">Conectori</string>
     <string name="no_maps_app_found">Instalati o aplicatie de navigatie</string>
     <string name="no_browser_app_found">Instalati un browser web</string>

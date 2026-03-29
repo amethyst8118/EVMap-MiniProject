@@ -208,8 +208,8 @@
     <string name="closed"><![CDATA[<b>Fechado</b>]]></string>
     <string name="open_closesat"><![CDATA[<b>Aberto</b> · Fecha às %s]]></string>
     <string name="closed_opensat"><![CDATA[<b>Fechado</b> · Abre às %s]]></string>
-    <string name="app_name">EVMap</string>
-    <string name="title_activity_maps">EVMap</string>
+    <string name="app_name">EVChargeMap</string>
+    <string name="title_activity_maps">EVChargeMap</string>
     <string name="closed_unfmt">Fechado</string>
     <string name="holiday">Feriado</string>
     <string name="cost">Custo</string>
